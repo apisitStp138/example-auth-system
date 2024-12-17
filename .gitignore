@@ -13,10 +13,6 @@ yarn-error.log*
 /build/
 /out/
 
-# TypeScript files (if not using tsconfig.json to include/exclude)
-*.ts
-*.tsx
-
 # VSCode settings
 .vscode/
 
